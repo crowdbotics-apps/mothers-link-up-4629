@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mothers_link_up_4629.wsgi:application
